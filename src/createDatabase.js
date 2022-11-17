@@ -16,3 +16,5 @@ const refreshAll = async () => {
     await mongoose.disconnect();
 }
 refreshAll()
+
+module.exports = db;
