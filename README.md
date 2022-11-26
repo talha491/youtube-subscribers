@@ -58,7 +58,7 @@ So what are you waiting for try it out Now.
 - clone the repository on your local machine with the command below in your terminal, and cd into the **src** folder
 -Start server with node index.js
 ```
-https://github.com/talha491/youtube-backend.git
+https://github.com/talha491/youtube-subscribers.git
 
 cd src
 ```
